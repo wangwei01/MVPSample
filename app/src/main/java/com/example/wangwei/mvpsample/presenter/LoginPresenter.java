@@ -1,6 +1,6 @@
 package com.example.wangwei.mvpsample.presenter;
 
-import com.example.wangwei.mvpsample.BasePresenter;
+import com.example.wangwei.mvpsample.base.BasePresenter;
 import com.example.wangwei.mvpsample.model.LoginModel;
 import com.example.wangwei.mvpsample.presentation.LoginPresentation;
 

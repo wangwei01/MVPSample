@@ -1,4 +1,4 @@
-package com.example.wangwei.mvpsample;
+package com.example.wangwei.mvpsample.base;
 
 /**
  * Created by wangwei on 2017/11/16.
